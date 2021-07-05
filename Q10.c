@@ -9,6 +9,7 @@ int main(){
 	//x+1=4096, x+2=4100, x+3=4104.
 	//x declarado como double:
 	//x+1=4100, x+2=4108, x+3=4116.
+	
 	char vet1[4] = {'a', 'b', 'c', 'd'};
 	int vet2[4] = {1, 2, 3, 4};
 	float vet3[4] = {1.1, 2.2, 3.3, 4.4};
