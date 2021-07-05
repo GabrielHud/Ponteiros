@@ -46,5 +46,6 @@ int main(){
 	//item f é ilegal, mais uma comparação de inteiro com ponteiro, item g é ilegal, mais uma comparação de inteiro com ponteiro,
 	//item h é ilegal, pois os valores são diferentes, um se refere a i e o outro se refere a i + j.
 	//Os itens ilegais são b, d, e, f, g e h.
+
 	return 0;
 }

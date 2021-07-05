@@ -80,6 +80,7 @@ int main() {
   	p5;
  	printf("%d \n", *p5);
   	
+	//Respostas:
   	//Todas as respostas estão de acordo com o esperado.
 	
 	return(0);

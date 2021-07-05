@@ -25,5 +25,6 @@ int main (void) {
 
 	//Respostas:
 	//Será impresso os valores 1(true), -2, 3 e 10.
+
 	return 0;
 }

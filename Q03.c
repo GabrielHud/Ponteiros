@@ -7,5 +7,6 @@ int main(){
 
 	//Respostas:
 	//Será impresso os valores 4094, 7, 5, 15 e 9.
+
 	return 0;
 }
