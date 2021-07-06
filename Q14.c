@@ -8,8 +8,8 @@ int comparar(const void * a, const void * b) {
 
 int main(void){
 	//Váriaveis
-	int i, n, j;
-	float *x, aux;
+	int i, n;
+	float *x;
 
 	//Recebe quantos elementos seram alocados no vetor
 	printf("Informe o numero de componentes do vetor: ");
